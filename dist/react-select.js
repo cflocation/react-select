@@ -2560,7 +2560,7 @@
   var borderRadius = 1;
   var baseUnit = 2; /* Used to calculate consistent margin/padding on elements */
   var controlHeight = 32; /* The minimum height of the control */
-  var menuGutter = baseUnit * 0; /* The amount of space between the control and menu */
+  var menuGutter = baseUnit * 1; /* The amount of space between the control and menu */
 
   var spacing = {
     baseUnit: baseUnit,
