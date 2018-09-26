@@ -26,8 +26,8 @@ export const colors = {
 
 const borderRadius = 1;
 const baseUnit = 4;  /* Used to calculate consistent margin/padding on elements */
-const controlHeight = 30;  /* The minimum height of the control */
-const menuGutter = baseUnit * 2;  /* The amount of space between the control and menu */
+const controlHeight = 32;  /* The minimum height of the control */
+const menuGutter = baseUnit * 0;  /* The amount of space between the control and menu */
 
 export const spacing = {
   baseUnit,
