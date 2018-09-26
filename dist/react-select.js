@@ -2536,7 +2536,7 @@
   }
 
   var colors = {
-    primary: '#072643',
+    primary: '#0d64ca',
     primary75: '#4C9AFF',
     primary50: '#B2D4FF',
     primary25: '#DEEBFF',
