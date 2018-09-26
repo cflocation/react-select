@@ -2398,8 +2398,8 @@ var colors = {
 };
 
 var borderRadius = 1;
-var baseUnit = 2; /* Used to calculate consistent margin/padding on elements */
-var controlHeight = 30; /* The minimum height of the control */
+var baseUnit = 1; /* Used to calculate consistent margin/padding on elements */
+var controlHeight = 31; /* The minimum height of the control */
 var menuGutter = baseUnit * 1; /* The amount of space between the control and menu */
 
 var spacing = {
